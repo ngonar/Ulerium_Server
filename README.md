@@ -1,2 +1,2 @@
-# snake_game_server
+# Ulerium
 Snake game server using plain socket connection
